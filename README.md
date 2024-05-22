@@ -177,3 +177,5 @@
 예제 5-3 : 로컬 변수를 증가시키고 로그로 출력하는 함수를 반환하는 클로저 예제 추가
 
 예제 5-4 : setInterval, eventListener 및 즉시 호출을 사용한 클로저 예제 추가
+
+예제 5-5 : setInterval, eventListener 및 return 문을 사용하여 클로저 메모리를 해제하는 예제 추가
