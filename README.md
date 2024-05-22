@@ -137,3 +137,5 @@
 예제 3-31: 배열 및 기타 iterable 객체에서 사용 가능한 반복 메서드 목록
 
 예제 4-1: console.log와 clearInterval을 사용한 interval 예제 추가
+
+예제 4-2: 콜백 함수를 사용한 interval 예제 추가
