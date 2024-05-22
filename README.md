@@ -139,3 +139,5 @@
 예제 4-1: console.log와 clearInterval을 사용한 interval 예제 추가
 
 예제 4-2: 콜백 함수를 사용한 interval 예제 추가
+
+예제 4-3: 현재 값과 인덱스를 console.log로 출력하는 map 예제 추가
