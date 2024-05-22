@@ -179,3 +179,5 @@
 예제 5-4 : setInterval, eventListener 및 즉시 호출을 사용한 클로저 예제 추가
 
 예제 5-5 : setInterval, eventListener 및 return 문을 사용하여 클로저 메모리를 해제하는 예제 추가
+
+예제 5-6 : 클로저를 사용한 동적 요소 생성 및 이벤트 리스너 예제 추가
