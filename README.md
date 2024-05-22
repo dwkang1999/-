@@ -145,3 +145,5 @@
 예제 4-4: 잘못된 콜백 매개변수 순서를 사용한 map 예제 추가
 
 예제 4-5: 콜백과 thisArg 처리를 포함한 array map 메서드 폴리필 추가
+
+예제 4-6: setTimeout, forEach, 및 eventListener에서 'this'를 로그로 출력하는 예제 추가
