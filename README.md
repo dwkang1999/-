@@ -247,3 +247,5 @@
 예제 7-10: Object.create를 이용한 Square 클래스의 프로토타입 상속 및 동결
 
 예제 7-11: extendClass1 함수 수정: 생성자 속성 설정 및 동결
+
+예제 7-12: extendClass2 함수 수정: 생성자 속성 설정 및 동결
