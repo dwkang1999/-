@@ -255,3 +255,5 @@
 예제 7-14: extendClass 함수 수정: super 메소드 추가
 
 예제 7-15: ES5와 ES6 클래스 문법 비교
+
+예제 7-16: ES6 클래스 문법을 이용한 Rectangle과 Square 클래스 정의 및 상속
