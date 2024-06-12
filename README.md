@@ -237,3 +237,5 @@
 예제 7-5: Rectangle과 Square 객체 생성자 및 getArea 메소드 정의
 
 예제 7-6: Square 생성자에서 height 속성을 width로 설정
+
+예제 7-7: Square 생성자에서 Rectangle 상속
