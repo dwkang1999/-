@@ -251,3 +251,5 @@
 예제 7-12: extendClass2 함수 수정: 생성자 속성 설정 및 동결
 
 예제 7-13: extendClass3 함수: Object.create를 이용한 클래스 상속 및 동결
+
+예제 7-14: extendClass 함수 수정: super 메소드 추가
