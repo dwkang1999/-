@@ -233,3 +233,5 @@
 예제 7-3: Grade 인스턴스에 요소 추가 및 length 속성 삭제 후 요소 추가
 
 예제 7-4: Grade 인스턴스와 프로토타입에 요소 추가 및 length 속성 삭제 후 요소 추가
+
+예제 7-5: Rectangle과 Square 객체 생성자 및 getArea 메소드 정의
