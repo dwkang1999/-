@@ -241,3 +241,5 @@
 예제 7-7: Square 생성자에서 Rectangle 상속
 
 예제 7-8: extendClass1 함수로 클래스 상속 구현 및 테스트
+
+예제 7-9: extendClass2 함수로 브리지 패턴을 이용한 클래스 상속 구현
