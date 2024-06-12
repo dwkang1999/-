@@ -243,3 +243,5 @@
 예제 7-8: extendClass1 함수로 클래스 상속 구현 및 테스트
 
 예제 7-9: extendClass2 함수로 브리지 패턴을 이용한 클래스 상속 구현
+
+예제 7-10: Object.create를 이용한 Square 클래스의 프로토타입 상속 및 동결
